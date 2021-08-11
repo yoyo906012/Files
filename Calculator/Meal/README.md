@@ -18,15 +18,15 @@ table.py是讓你換餐廳的列表，預設是花蓮壽豐志學村的餐廳
 
 右鍵編輯table.py在各函數的table列表內可以換成你要的餐廳!
 
-  A).morthing代表早餐
+    A).morthing代表早餐
   
-  B).evening 代表午餐
+    B).evening 代表午餐
   
-  C).night   代表晚餐
+    C).night   代表晚餐
   
-  D).dim     代表宵夜
+    D).dim     代表宵夜
   
-  E).drink   代表飲料
+    E).drink   代表飲料
 
 2021/8/11完成
 
