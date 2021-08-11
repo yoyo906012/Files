@@ -1,4 +1,5 @@
-#To randomly decide which store's food that I eat.
+#!/usr/bin/python
+# -*- coding:utf-8 -*-
 import table ,random,sys,os
 
 table.firstimeresponse()
